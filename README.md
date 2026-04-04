@@ -69,8 +69,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Dashboard and charts Screenshot](./assets/dashboard&charts.png)
-![transactions and insights Screenshot](./assets/insights&transactions.png)
+![transactions and insights Screenshot] <img width="1308" height="550" alt=" transactions insights" src="https://github.com/user-attachments/assets/e7dbd2d7-f841-46d3-8463-f29c71e0ef42" />
+
+
+![dashboard and charts Screenshot](./assets/insights&transactions.png)<img width="1314" height="590" alt="dashboard charts" src="https://github.com/user-attachments/assets/0e82cc43-f4c6-418f-ad90-2def4b0717e4" />
+
 
 ---
 
