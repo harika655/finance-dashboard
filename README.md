@@ -4,9 +4,6 @@ A modern and responsive **Finance Dashboard** built using **Vite + Vanilla JavaS
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://harika655.github.io/finance-dashboard/
 
 ---
 
